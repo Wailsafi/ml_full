@@ -37,3 +37,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+
+#saved models
+regmodel.pkl
+
+
+
