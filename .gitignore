@@ -40,8 +40,9 @@ venv.bak/
 
 
 #saved models
-regmodel.pkl
-scalar.pkl
+# regmodel.pkl
+
+# scalar.pkl
 
 
 
